@@ -1,0 +1,19 @@
+.display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.num-rounds {
+  color: white;
+  font-size: 5em;
+  font-weight: bold;
+  overflow-y: hidden;
+  max-width: 200px;
+}
+
+h3 {
+  margin: 5px 0px 14px 0px;
+  color: #949494;
+}

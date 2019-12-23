@@ -1,0 +1,20 @@
+.btn {
+  background-color: #FF8500;
+  border-radius: 5px;
+  border: none;
+  color: #292929;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bolder;
+  min-height: 15px;
+  height: auto;
+  margin: 5px;
+  padding: 5px 10px;
+  min-width: 28px;
+  width: auto;
+  transition: background-color 0.5s ease;
+}
+
+.btn:hover {
+  background-color: rgb(255, 187, 115);
+}

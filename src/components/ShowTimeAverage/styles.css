@@ -1,0 +1,16 @@
+p.average {
+  display: flex;
+  align-self: center;
+  padding: 5px 10px 0px 10px;
+  color: white;
+  font-size: 20px;
+  overflow-y: hidden;
+  max-width: 200px;
+}
+
+h5 {
+  display: flex;
+  align-self: center;
+  margin: 0px 0px 12px 0px;
+  color: #949494;
+}
